@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+img.original{
+    width: 300px;
+    height: auto;
+}
+
+img.avatar {
+    width:200px;
+    height: 400px;
+}
